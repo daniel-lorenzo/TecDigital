@@ -7,4 +7,6 @@ Se ofrece libremente, sin garantía.
 
 ![logo.png](img/logo.png)    
 
+## Indice
+
 [Modelo de final](https://nbviewer.jupyter.org/github/daniel-lorenzo/TecDigital/blob/master/final.ipynb)     
