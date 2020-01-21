@@ -9,5 +9,6 @@ Se ofrece libremente, sin garantía.
 
 ## Indice
 
-[Modelo de final](https://nbviewer.jupyter.org/github/daniel-lorenzo/TecDigital/blob/master/final.ipynb)      
-[7seg_cc](https://nbviewer.jupyter.org/github/daniel-lorenzo/TecDigital/blob/master/7seg_cc.ipynb)          
+[Modelo de final](https://nbviewer.jupyter.org/github/daniel-lorenzo/TecDigital/blob/master/final.ipynb)  
+[Modelo de examen (práctica 1)](https://nbviewer.jupyter.org/github/daniel-lorenzo/TecDigital/blob/master/practica_1.ipynb)     
+[Siete segmentos cátodo común](https://nbviewer.jupyter.org/github/daniel-lorenzo/TecDigital/blob/master/7seg_cc.ipynb)          
