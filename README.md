@@ -1,4 +1,4 @@
-# TecDigital
+# Computación
 __UNLZ - FI__   
 __Alumno:__ Daniel Antonio Lorenzo 
 
